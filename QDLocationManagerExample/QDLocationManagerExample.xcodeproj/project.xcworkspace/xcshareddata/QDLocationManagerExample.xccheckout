@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>06AA0C55-AD20-4F19-9594-1E272FFED7DB</string>
+	<key>IDESourceControlProjectName</key>
+	<string>QDLocationManagerExample</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>33E0A6DA-2802-4FD0-A0CE-A969FC8A8F82</key>
+		<string>https://github.com/quaddef/QDLocationManager.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>QDLocationManagerExample/QDLocationManagerExample.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>33E0A6DA-2802-4FD0-A0CE-A969FC8A8F82</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/quaddef/QDLocationManager.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>33E0A6DA-2802-4FD0-A0CE-A969FC8A8F82</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>33E0A6DA-2802-4FD0-A0CE-A969FC8A8F82</string>
+			<key>IDESourceControlWCCName</key>
+			<string>QDLocationManager</string>
+		</dict>
+	</array>
+</dict>
+</plist>
