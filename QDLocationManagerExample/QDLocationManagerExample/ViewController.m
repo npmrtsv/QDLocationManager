@@ -37,11 +37,11 @@
 }
 
 - (void)labelsSetup{
-    [[QDLocationManager sharedManager] addListener:self forDistance:10 resultBlock:^(CLLocation *location) {
+    [[QDLocationManager sharedManager] addListener:self forDistance:10.0 resultBlock:^(CLLocation *location) {
         [_tenMetersLabel setText:[NSString stringWithFormat:@"%f", [_firstLoc distanceFromLocation:location]]];
     }];
     
-    [[QDLocationManager sharedManager] addListener:self forDistance:50 resultBlock:^(CLLocation *location) {
+    [[QDLocationManager sharedManager] addListener:self forDistance:50.0 resultBlock:^(CLLocation *location) {
         [_fiftyMetersLabel setText:[NSString stringWithFormat:@"%f", [_firstLoc distanceFromLocation:location]]];
     }];
 }
