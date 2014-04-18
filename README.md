@@ -16,7 +16,7 @@ Remove listener only for distance = 10m.
     [[QDLocationManager sharedManager] removeListener:self forDistance:10.0];
     
     
-Remove listener for all distances
+Remove listener for all distances.
 
     [[QDLocationManager sharedManager] removeListener:self];
 

@@ -21,6 +21,6 @@ typedef void (^QDLocationManagerResultBlock)(CLLocation *location);
 
 - (void) addListener:(id)listener forDistance:(double)distance resultBlock:(QDLocationManagerResultBlock)resultBlock;
 - (void) removeListener:(id)listener;
-- (void) removeListener:(id)listener forDistance:(double)ditance;
+- (void) removeListener:(id)listener forDistance:(double)distance;
 
 @end
