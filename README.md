@@ -1,6 +1,6 @@
 <h2>Installation</h2>
 
-    pod 'QDLocationManager', '~> 0.0.1'
+    pod 'QDLocationManager', '~> 0.0.2'
     
     
 <h2>How to use</h2>
